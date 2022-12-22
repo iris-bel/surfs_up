@@ -10,6 +10,10 @@ In this project, we are investigating the weather conditions on the island of Oa
 * June also has higher minimum and maximum temperatures compared to December
 * There areclose to 200 more data points for June than for December, however this discrepancy 
 
+![June Temps](June_Temps.png)
+
+![December Temps](December_Temps.png)
+
 ## Summary
 
 Based on the data we gathered on the temperatures on Oahu in June and December, the surf and icecream shop should be sustainable over the course of the entire year as the weather is consistently mild with a variation of just three degrees for the average temperature during both months.
